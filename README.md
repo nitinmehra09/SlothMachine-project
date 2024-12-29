@@ -29,6 +29,7 @@ To start the slot machine simulator, execute the following command in your termi
 python main.py
 ```
 
+
 ## How It Works
 - The program generates random symbols for the slot machine's reels.
 - Users place bets and spin the machine.
@@ -48,4 +49,4 @@ Contributions are welcome! If you have ideas for improvement or want to fix a bu
 4. Push to the branch: `git push origin feature-name`.
 5. Open a pull request.
 
-
+-nit says that this project is amazing. But may add feature like ..
