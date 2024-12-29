@@ -49,4 +49,4 @@ Contributions are welcome! If you have ideas for improvement or want to fix a bu
 4. Push to the branch: `git push origin feature-name`.
 5. Open a pull request.
 
--nit says that this project is amazing. But may add feature like ..
+-nit says that this project is amazing.
